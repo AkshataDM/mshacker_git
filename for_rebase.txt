@@ -3,3 +3,6 @@ Before merging, rebase all the unwanted "no significant changes" "pr rework" com
 
 
 GIT REBASE = CLEANUP
+
+
+Final commit which will merge all the small commits into a single one.
