@@ -1,2 +1,5 @@
 This is for learning what a git rebase does and how to use it.
 Before merging, rebase all the unwanted "no significant changes" "pr rework" commits into a single clean commit.
+
+
+GIT REBASE = CLEANUP
