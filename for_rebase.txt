@@ -6,3 +6,6 @@ GIT REBASE = CLEANUP
 
 
 Final commit which will merge all the small commits into a single one.
+
+
+On master branch, making changes after committing changes in rebase branch to demonstrate how rebase works
